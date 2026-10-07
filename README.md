@@ -20,7 +20,7 @@ app at [pfactor.app](https://pfactor.app). More at [dimario.dev](https://dimario
   benchmarked on an HPC cluster.
 - **[AirHoundMiddleware](https://github.com/luccadimario/AirHoundMiddleware)** is
   the ROS2 vision-to-flight control link for a UAV tracking system, published in
-  *Beyond: Undergraduate Research Journal*.
+  *Beyond: Undergraduate Research Journal* and *SPIE Space + Defense*.
 - **[amuse-cli](https://github.com/luccadimario/amuse-cli)** is a terminal
   now-playing display and live audio visualizer for Amazon Music, driving
   OS-native media APIs on Windows and Linux.
