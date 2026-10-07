@@ -25,6 +25,6 @@ app at [pfactor.app](https://pfactor.app). More at [dimario.dev](https://dimario
   now-playing display and live audio visualizer for Amazon Music, driving
   OS-native media APIs on Windows and Linux.
 
-**Mostly working in** Python, Go, C/C++, TypeScript, Swift, PyTorch, ROS2.
+**Mostly working in** C/C++, Python, Go, TypeScript, Swift, PyTorch, ROS2.
 
 Reach me at luccadimario@gmail.com
